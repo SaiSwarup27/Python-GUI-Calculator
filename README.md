@@ -9,4 +9,4 @@ A simple GUI Calculator using Tkinter in Python.
 
 >If any syntax error encountered in the entry box then a pop up message will be displayed saying that syntax error
 
-![Error Message](https://github.com/SaiSwarup27/Python-GUI-Calculator/blob/master/images/ErrorMsg.png)
+<img src='https://github.com/SaiSwarup27/Python-GUI-Calculator/blob/master/images/ErrorMsg.png' align='center'/>
